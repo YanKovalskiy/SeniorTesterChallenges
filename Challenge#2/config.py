@@ -1,0 +1,1 @@
+URL = 'https://magento.softwaretestingboard.com/gear/bags.html'
